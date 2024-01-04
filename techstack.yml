@@ -1,7 +1,8 @@
 repo_name: ashleanichols/socket.io
 report_id: ae5d734d2d9dd6b9dc30e0249e8d23ed
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T17:00:45+00:00'
+timestamp: '2024-01-04T15:08:07+00:00'
 requested_by: darrachequesne
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ashleanichols/socket.io
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ashleanichols/socket.io
   detection_source: Repo Metadata
 - name: Angular
   description: A platform for building mobile and desktop web applications
@@ -37,8 +40,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: ExpressJS
@@ -52,8 +55,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
-  detection_source: examples/whiteboard/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
+  detection_source: examples/chat/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-04-14 07:47:51.000000000 Z
 - name: Node.js
@@ -65,7 +68,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
-  detection_source: package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: React
@@ -78,8 +82,8 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
-  detection_source: examples/react-native/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
+  detection_source: examples/create-react-app-example/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-07-09 08:58:48.000000000 Z
 - name: React Native
@@ -91,6 +95,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/2699/KoK6gHzp.jpg
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-06-05 06:56:20.000000000 Z
@@ -103,8 +108,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Concurrency Frameworks
   image_url: https://img.stackshare.io/service/1796/984368.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: Vue.js
@@ -117,7 +122,7 @@ tools:
   category: Libraries
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3837/paeckCWC.png
-  detection_source_url: examples/private-messaging/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/private-messaging/package.json
   detection_source: examples/private-messaging/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-02-08 00:06:20.000000000 Z
@@ -130,7 +135,8 @@ tools:
   category: Data Stores
   sub_category: In-Memory Databases
   image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
-  detection_source: examples/private-messaging/server/docker-compose.yml
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/cluster-haproxy/docker-compose.yml
+  detection_source: examples/cluster-haproxy/docker-compose.yml
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2017-01-16 07:33:09.000000000 Z
 - name: Socket.IO
@@ -142,8 +148,8 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-03-18 14:06:47.000000000 Z
 - name: Babel
@@ -156,8 +162,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
+  detection_source: examples/private-messaging/babel.config.js
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-02-08 00:06:20.000000000 Z
 - name: Chai
@@ -170,7 +176,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1725/chai.png
-  detection_source_url: examples/basic-crud-application/server/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/basic-crud-application/server/package.json
   detection_source: examples/basic-crud-application/server/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-04-22 22:08:18.000000000 Z
@@ -183,7 +189,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Virtual Machine Platforms & Containers
   image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
-  detection_source: examples/cluster-traefik/server/Dockerfile
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/cluster-haproxy/haproxy/Dockerfile
+  detection_source: examples/cluster-haproxy/haproxy/Dockerfile
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2017-01-16 07:33:09.000000000 Z
 - name: ESLint
@@ -195,7 +202,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
-  detection_source: package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/private-messaging/package.json
+  detection_source: examples/private-messaging/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-02-08 00:06:20.000000000 Z
 - name: Git
@@ -206,6 +214,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ashleanichols/socket.io
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -215,6 +224,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/.github/workflows/ci.yml
   detection_source: ".github/workflows/ci.yml"
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-07 10:37:03.000000000 Z
@@ -226,6 +236,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Load Balancer / Reverse Proxy
   image_url: https://img.stackshare.io/service/1179/preview.png
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/cluster-haproxy/haproxy/haproxy.cfg
   detection_source: examples/cluster-haproxy/haproxy/haproxy.cfg
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2017-01-16 07:33:09.000000000 Z
@@ -237,7 +248,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: Karma
@@ -250,8 +262,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: Mocha
@@ -265,8 +277,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/832/mocha.png
-  detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/package-lock.json
+  detection_source: examples/basic-crud-application/server/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-04-22 22:08:18.000000000 Z
 - name: NGINX
@@ -278,6 +290,7 @@ tools:
   category: Application Hosting
   sub_category: Web Servers
   image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/cluster-nginx/nginx/nginx.conf
   detection_source: examples/cluster-nginx/nginx/nginx.conf
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2017-01-16 07:32:53.000000000 Z
@@ -291,7 +304,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: David Fong
   last_updated_on: 2020-12-11 11:19:20.000000000 Z
@@ -305,8 +318,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/1754/protractor-logo1.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: SuperTest
@@ -319,7 +332,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Stijn de Witt
   last_updated_on: 2020-11-25 16:51:39.000000000 Z
@@ -331,7 +344,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/5561/303157.png
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: Traefik
@@ -343,6 +357,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Load Balancer / Reverse Proxy
   image_url: https://img.stackshare.io/service/5126/default_0a34be001ec8247c641508aa468564fb386bc50c.png
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/cluster-traefik/docker-compose.yml
   detection_source: examples/cluster-traefik/docker-compose.yml
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-01-31 22:47:23.000000000 Z
@@ -356,8 +371,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: examples/create-react-app-example/yarn.lock
-  detection_source: examples/webpack-build/support/webpack.config.js
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
+  detection_source: examples/custom-parsers/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-03-18 14:06:47.000000000 Z
 - name: Yarn
@@ -368,6 +383,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
   detection_source: examples/create-react-app-example/yarn.lock
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-07-09 08:58:48.000000000 Z
@@ -379,6 +395,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/package.json
   detection_source: package.json
   last_updated_by: Guillermo Rauch
   last_updated_on: 2011-05-05 15:49:40.000000000 Z
@@ -388,6 +405,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8032/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/package.json
   detection_source: package.json
   last_updated_by: Stijn de Witt
   last_updated_on: 2020-11-25 16:51:39.000000000 Z
@@ -401,8 +419,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: "@angular/animations"
@@ -415,8 +433,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: "@angular/cli"
@@ -429,8 +447,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: "@angular/common"
@@ -443,8 +461,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: "@angular/compiler"
@@ -457,8 +475,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: "@angular/compiler-cli"
@@ -471,8 +489,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-03-18 14:06:47.000000000 Z
 - name: "@angular/forms"
@@ -485,8 +503,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: "@angular/platform-browser"
@@ -499,8 +517,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: "@angular/platform-browser-dynamic"
@@ -513,8 +531,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: "@angular/router"
@@ -527,8 +545,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: "@babel/core"
@@ -541,7 +559,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
   detection_source: examples/react-native/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-06-05 06:56:20.000000000 Z
@@ -555,7 +573,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
   detection_source: examples/create-react-app-example/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-07-09 08:58:48.000000000 Z
@@ -570,7 +588,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
   detection_source: examples/create-react-app-example/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-07-09 08:58:48.000000000 Z
@@ -584,7 +602,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: examples/basic-crud-application/server/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/basic-crud-application/server/package.json
   detection_source: examples/basic-crud-application/server/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-04-22 22:08:18.000000000 Z
@@ -598,7 +616,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17290/default_b2015e9577d171c4c3f12c3c8d253c01fe63ba8d.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
   detection_source: package.json
   last_updated_by: Maxime Kjaer
   last_updated_on: 2021-03-01 20:46:41.000000000 Z
@@ -612,8 +630,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: "@types/mocha"
@@ -626,7 +644,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Maxime Kjaer
   last_updated_on: 2021-03-01 20:46:41.000000000 Z
@@ -640,8 +658,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: "@types/uuid"
@@ -654,7 +672,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
-  detection_source_url: examples/basic-crud-application/server/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/basic-crud-application/server/package.json
   detection_source: examples/basic-crud-application/server/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-04-22 22:08:18.000000000 Z
@@ -668,7 +686,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16006/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: examples/private-messaging/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/private-messaging/package.json
   detection_source: examples/private-messaging/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-02-08 00:06:20.000000000 Z
@@ -682,7 +700,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16035/default_b8a893285867e41b5fc4a7631d8fc2da834d778c.png
-  detection_source_url: examples/private-messaging/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/private-messaging/package.json
   detection_source: examples/private-messaging/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-02-08 00:06:20.000000000 Z
@@ -696,7 +714,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15990/default_cbd6c289400672b291755183817e9dd6abe1a612.png
-  detection_source_url: examples/private-messaging/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/private-messaging/package.json
   detection_source: examples/private-messaging/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-02-08 00:06:20.000000000 Z
@@ -710,7 +728,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17723/default_552addbbff67ec0ef62ce1d229e112d14ca818f5.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
   detection_source: package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-10-16 23:56:17.000000000 Z
@@ -724,8 +742,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
+  detection_source: examples/private-messaging/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-02-08 00:06:20.000000000 Z
 - name: babel-preset-expo
@@ -738,7 +756,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18526/default_6d0416098b5583c02111044f891c8f1f8e30a97e.png
-  detection_source_url: examples/react-native/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-06-05 06:56:20.000000000 Z
@@ -752,7 +770,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15906/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
   detection_source: examples/passport-example/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-05-22 06:30:13.000000000 Z
@@ -766,8 +784,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: component-emitter
@@ -780,7 +798,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17572/default_4627bd50a25f9a490243683fabcc5c97d552aa2a.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
   detection_source: examples/custom-parsers/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2017-05-08 22:46:01.000000000 Z
@@ -794,7 +812,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
   detection_source: examples/private-messaging/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-02-08 00:06:20.000000000 Z
@@ -808,7 +826,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15852/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
   detection_source: package.json
   last_updated_by: Stijn de Witt
   last_updated_on: 2020-11-25 16:51:39.000000000 Z
@@ -822,7 +840,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: David Fong
   last_updated_on: 2020-12-11 11:19:20.000000000 Z
@@ -836,7 +854,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15950/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
-  detection_source_url: examples/private-messaging/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/private-messaging/package.json
   detection_source: examples/private-messaging/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-02-08 00:06:20.000000000 Z
@@ -850,7 +868,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16029/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Guillermo Rauch
   last_updated_on: 2014-03-15 13:39:21.000000000 Z
@@ -864,7 +882,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17801/default_78858facb60c08d15198eb69a6c7f48463f2c09f.png
-  detection_source_url: examples/react-native/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-06-05 06:56:20.000000000 Z
@@ -878,8 +896,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
-  detection_source: examples/whiteboard/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
+  detection_source: examples/chat/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-04-14 07:47:51.000000000 Z
   vulnerabilities:
@@ -899,7 +917,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16239/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
-  detection_source_url: examples/passport-example/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/passport-example/package.json
   detection_source: examples/passport-example/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-05-22 06:30:13.000000000 Z
@@ -913,7 +931,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16522/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
-  detection_source_url: examples/private-messaging/server/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/private-messaging/server/package.json
   detection_source: examples/private-messaging/server/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-02-16 23:24:23.000000000 Z
@@ -927,8 +945,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: jasmine-spec-reporter
@@ -941,8 +959,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: joi
@@ -955,7 +973,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16173/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
-  detection_source_url: examples/basic-crud-application/server/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/basic-crud-application/server/package.json
   detection_source: examples/basic-crud-application/server/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-04-22 22:08:18.000000000 Z
@@ -969,8 +987,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: karma-coverage
@@ -983,8 +1001,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15951/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: karma-jasmine
@@ -997,8 +1015,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: karma-jasmine-html-reporter
@@ -1011,8 +1029,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: nyc
@@ -1025,8 +1043,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15837/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/package-lock.json
+  detection_source: examples/basic-crud-application/server/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-04-22 22:08:18.000000000 Z
 - name: passport
@@ -1039,7 +1057,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16304/default_1baba0e6ece19a38adfb211f686c83c781ff703a.png
-  detection_source_url: examples/passport-example/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/passport-example/package.json
   detection_source: examples/passport-example/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-05-22 06:30:13.000000000 Z
@@ -1060,7 +1078,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16747/default_adce7cef6d131ffc31466624541462e4db9534d4.png
-  detection_source_url: examples/passport-example/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/passport-example/package.json
   detection_source: examples/passport-example/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-05-22 06:30:13.000000000 Z
@@ -1074,8 +1092,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
-  detection_source: examples/react-native/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
+  detection_source: examples/create-react-app-example/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-07-09 08:58:48.000000000 Z
 - name: react-native
@@ -1087,6 +1105,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16064/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-06-05 06:56:20.000000000 Z
@@ -1100,7 +1119,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17683/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
-  detection_source_url: examples/react-native/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/react-native/package.json
   detection_source: examples/react-native/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-06-05 06:56:20.000000000 Z
@@ -1114,7 +1133,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
   detection_source: examples/create-react-app-example/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-07-09 08:58:48.000000000 Z
@@ -1128,7 +1147,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
   detection_source: package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-11-19 00:28:27.000000000 Z
@@ -1142,8 +1161,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16164/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
-  detection_source: package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-03-18 14:06:47.000000000 Z
 - name: superagent
@@ -1156,7 +1175,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16046/default_939338dc71400138c5e4a3464e041bf30f8f82ba.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Stijn de Witt
   last_updated_on: 2020-11-25 16:51:39.000000000 Z
@@ -1170,8 +1189,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15830/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: package-lock.json
-  detection_source: package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/package-lock.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: tsd
@@ -1184,7 +1203,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16858/default_21db97bdb9f4092d80f256d3afec4658fbafe443.png
-  detection_source_url: package-lock.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/package-lock.json
   detection_source: package.json
   last_updated_by: Guillermo Rauch
   last_updated_on: 2011-05-05 15:49:40.000000000 Z
@@ -1198,8 +1217,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15853/default_97d4687bd07ff1bb963fd566c84e7cbf7c73bbee.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
 - name: uuid
@@ -1212,7 +1231,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: examples/create-react-app-example/yarn.lock
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/create-react-app-example/yarn.lock
   detection_source: examples/basic-crud-application/server/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-04-22 22:08:18.000000000 Z
@@ -1226,7 +1245,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: examples/private-messaging/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/private-messaging/package.json
   detection_source: examples/private-messaging/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-02-08 00:06:20.000000000 Z
@@ -1240,7 +1259,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: examples/private-messaging/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/private-messaging/package.json
   detection_source: examples/private-messaging/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2021-02-08 00:06:20.000000000 Z
@@ -1254,7 +1273,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15826/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: examples/webpack-build-server/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/webpack-build-server/package.json
   detection_source: examples/webpack-build-server/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-06-04 14:36:19.000000000 Z
@@ -1268,7 +1287,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
-  detection_source_url: examples/angular-todomvc/package.json
-  detection_source: examples/basic-crud-application/angular-client/package.json
+  detection_source_url: https://github.com/ashleanichols/socket.io/blob/master/examples/angular-todomvc/package.json
+  detection_source: examples/angular-todomvc/package.json
   last_updated_by: Damien Arrachequesne
   last_updated_on: 2020-12-17 11:42:23.000000000 Z
